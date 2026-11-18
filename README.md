@@ -1,5 +1,7 @@
 # mecp-app
 
+S'ha inclòs el català i es mostra la bandera
+
 Implementations and clients for the [Mesh Emergency Communication Protocol (MECP)](https://github.com/mecp-org/MECP).
 
 | Path | What |
